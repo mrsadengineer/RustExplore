@@ -73,3 +73,6 @@ cargo run
 https://doc.rust-lang.org/book/index.html  
 
 https://doc.rust-lang.org/cargo/index.html  
+
+#setting up launch.json for running and debugging
+https://stackoverflow.com/questions/46885292/how-to-launch-a-rust-application-from-visual-studio-code
