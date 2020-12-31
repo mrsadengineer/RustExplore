@@ -38,7 +38,7 @@ cargo init
 Set Up Editor (VSCODE)  
 Add Code  -helloworld  
 update or add  .gitignore file  
-added to github  (need to document process better)   
+added to github  (documentation below)   
 git branch -m main  
 git branch -a  
 git remote add origin https://github.com/msadengineer/RustExplore.git  
