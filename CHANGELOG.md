@@ -1,4 +1,14 @@
 
+<a name="0.1.2"></a>
+
+## 0.1.2 (2020-12-31)
+### Features
+* **Rust-Testing:** check ipconfig 
+
+### Added
+* **primativeexample.rs:** set of examples with primatives to Rust. 
+* **other.rs:** testing modules in rust
+* **checknetwork.rs:** testing std::process::commands
 
 <a name="0.1.1"></a>
 
