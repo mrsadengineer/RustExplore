@@ -1,12 +1,9 @@
-mod other;
+mod ModuleExamples;
+
 mod primativeexamples;
 
-mod checknetwork;
 fn main() {
-
-checknetwork::checknetwork();
-//primativeexamples::example_prim();
-
-
-
+    ModuleExamples::checknetwork();
+    //checknetwork::checknetwork();
+    //primativeexamples::example_prim();
 }

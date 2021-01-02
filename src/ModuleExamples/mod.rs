@@ -1,4 +1,5 @@
 use std::process::Command;
+mod other;
 
 pub fn checknetwork() {
     let mut cmd = Command::new("ipconfig");
@@ -16,4 +17,6 @@ pub fn checknetwork() {
             println!("there is something wrong {}", e);
         }
     }
+
+    other::someth();
 }

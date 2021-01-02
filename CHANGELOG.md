@@ -1,9 +1,21 @@
 
+<a name="0.1.3"></a>
+
+## 0.1.3 (2020-01-02)
+### Features
+* **ModuleExamples:** set of examples of using modules in Rust. 
+
+### Added
+* **ModuleExamples:** add folder
+
+
+
+
 <a name="0.1.2"></a>
 
 ## 0.1.2 (2020-12-31)
 ### Features
-* **Rust-Testing:** check ipconfig 
+* **Rust-Testing:** added first test module example with proccess and command- ipconfig 
 
 ### Added
 * **primativeexample.rs:** set of examples with primatives to Rust. 
