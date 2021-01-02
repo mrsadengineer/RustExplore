@@ -1,4 +1,15 @@
 
+<a name="0.1.4"></a>
+
+## 0.1.4 (2020-01-02)
+### Features
+* **PrimativeExamples:** set of primative examples of using modules in Rust. 
+
+### Added
+* **PrimativeExamples:** added folder for new module.
+
+
+
 <a name="0.1.3"></a>
 
 ## 0.1.3 (2020-01-02)
