@@ -1,3 +1,17 @@
+<a name="0.1.5"></a>
+
+## 0.1.5 (2020-01-02)
+### Features
+* **PrimativeExamples:** adding 'literal_operators', 'tuple'
+
+### Added
+* **literal_operators:** file for literal and operators examples.
+* **tuple_examples:** file for tuple examples
+
+
+
+
+
 
 <a name="0.1.4"></a>
 
